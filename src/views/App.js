@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>A test repository!</h1>
       <NameBox name="Test User" description="I'm new here! Nice to meet you :)" />
+      <NameBox name="New Intern" description="I'm learning React right now!" />
     </div>
   );
 }

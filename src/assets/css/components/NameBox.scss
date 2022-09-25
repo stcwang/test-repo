@@ -1,3 +1,21 @@
-.App-link {
-  color: #61dafb;
+.name-box {
+  color: white;
+  border: 1px white solid;
+  border-radius: 10px;
+  padding: 30px;
+  width: 80%;
+  text-align: left;
+  margin: 1rem 0;
+
+  h3 {
+    margin-top: 0;
+
+    span {
+      color: #61dafb;
+    }
+  }
+
+  p {
+    margin-bottom: 0;
+  }
 }
